@@ -1,6 +1,6 @@
 {
   "title": "Developer Update",
-  "date": "20 December 2024",
-  "description": "The browser version is not optimised. If you can, I suggest you install the Windows version for improved performance.\n\nChanges this week focus on Iberia. Spain and Portugal now start with an improved military and economy.\n\nPlease report bugs and let me know your suggestions for improving the game.\n\nYou can contact me via Discord using the button below.\n\nBen <3",
-  "version": "0.5"
+  "date": "27 December 2024",
+  "description": "Your browser will cap FPS at 60 and lower the performance of BfE. If you can, I suggest installing the Windows version for higher FPS and faster speeds.\n\nThis week I have added detail to the Scandinavian region, with Sweden and Denmark seeing changes to gameplay.\n\nContact me via Discord using the button below.",
+  "version": "0.6"
 }
