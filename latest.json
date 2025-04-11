@@ -1,6 +1,6 @@
 {
   "title": "Developer Update",
-  "date": "4 April 2025",
-  "description": "This week I have introduced a save and load system. Folks that play on Windows will now have the ability to save their progress, then reload via the main menu. You can delete old saves via the client as well, or do it manually.\n\nThe reinforcement slider has been added to the army management screen. This allows you to adjust the reinforcement rate of understrength divisions.\n\nJoin the community on Discord!",
-  "version": "0.2.1"
+  "date": "11 April 2025",
+  "description": "This week the casualty counter on the summary screen has been fixed. The attacker modifier has been reduced, as well as a couple of changes to how division reinforcement works.\n\nJoin the community on Discord!",
+  "version": "0.2.2"
 }
