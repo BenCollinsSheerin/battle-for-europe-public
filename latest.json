@@ -1,6 +1,6 @@
 {
   "title": "Developer Update",
-  "date": "11 April 2025",
-  "description": "This week the casualty counter on the summary screen has been fixed. The attacker modifier has been reduced, as well as a couple of changes to division reinforcement.\n\nJoin the community on Discord!",
-  "version": "0.2.2"
+  "date": "18 April 2025",
+  "description": "This week several bugs have been fixed including negative manpower on some divisions after battle. As well as reinforcement not taking priority over recruitment.\n\nRetreat mechanics have been moved from the Division level to the Corps level. Corps will now retreat from battle if their manpower is below 40% of their maximum. This change has been added to reduce unnecessary micro.\n\nJoin the community on Discord!",
+  "version": "0.2.3"
 }
